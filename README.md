@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my page!
-I'm Sharon, Shopify expert from  New York, currently living in  Atlanta, Georgia.
-
-🔭 I’m currently working on Shopify Projects
-<br>
-💬 Ask me about Shopify Store Setup
-<br>
-📫 How to reach me: GitHub & LinkedIn
